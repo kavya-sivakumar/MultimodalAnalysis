@@ -1,8 +1,8 @@
 # MultimodalAnalysis
 
 HRV Synchrony Analysis:
-> windowed cross-correlation of cardiac interbeat intervals between dyads </br>
-> rolling-window CCF to detect temporal couplling
+> windowed cross-correlation of cardiac interbeat intervals in dyads </br>
+> rolling-window CCF to detect temporal coupling
 
 Movement Synchrony: 
 > optical flow based extraction of postural sway from video </br>
